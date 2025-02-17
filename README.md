@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 SOBRE MIM:
 BEM VINDO 💡<br><br>Estou cursando DSM na FATEC JAHU;<br>Busco expandir meu conhecimento na área de programação;<br>Tenho afinidade com HTML e CSS;<br><br>Email para contato: andrew.godoy.carvalho.06@gmail.com<br><br>
 
 
-## 🌐 Socials:
+## 🌐 REDES SOCIAIS:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Andrew_GTC) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrew.godoy.carvalho.06@gmail.com) 
 
 # 💻 Tech Stack:
